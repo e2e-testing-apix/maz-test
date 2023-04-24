@@ -1,7 +1,7 @@
 openapi: 3.0.1
   contact:
     name: Sample orders Contact data
-    url: 'https://developer.mazinger.com'
+    url: 'http://developer.mazinger.com'
     email: developer@mazinger.com
 paths:
   "/orders":
